@@ -1,0 +1,21 @@
+{
+  "age_certifications": null,
+  "content_types": null,
+  "presentation_types": null,
+  "providers": null,
+  "genres": null,
+  "languages": null,
+  "release_year_from": null,
+  "release_year_until": null,
+  "monetization_types": null,
+  "min_price": null,
+  "max_price": null,
+  "nationwide_cinema_releases_only": null,
+  "scoring_filter_types": null,
+  "cinema_release": null,
+  "page": null,
+  "page_size": null,
+  "timeline_type": null,
+  "person_id": null,
+  "query": "movieName"
+}
